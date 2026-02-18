@@ -18,7 +18,7 @@
 ## Hard Constraints
 
 - **Word count per card:** 80–120 words
-- **Number of cards:** 3 (Bauhaus, Swiss Style, Reaction)
+- **Number of cards:** 3 (Bauhaus, Swiss Style, Grunge)
 - **Vocabulary tags per card:** exactly 5
 - **Example links per card:** exactly 2 (must be real, working URLs)
 - **Required elements per card:**
@@ -53,20 +53,25 @@ Use these terms. If a term is not on this list, define it before using it.
 | Term | Definition |
 |------|-----------|
 | Vorkurs | Bauhaus foundation course teaching materials, form, and color |
-| *[Add your terms here]* | *[One-sentence definition]* |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Form Follows Function | Design prioritizes utility over decorative expression. |
+| Functionalism | Philosophy emphasizing purpose-driven design and rational problem-solving. |
+| Gesamtkunstwerk | Total work of art integrating multiple disciplines into unified design. |
+| Universal Typeface | Sans-serif type intended for standardized, mass communication. |
+| Asymmetrical Layout | Balanced composition without mirrored symmetry across axes. |
+| Modular Grid | Structured alignment system organizing content into consistent units. |
+| Objective Typography | Type treatment prioritizing neutrality and clarity over expression. |
+| Sans-Serif Modernism | Use of unadorned typefaces signaling industrial modernity. |
+| Typographic Hierarchy | Systematic differentiation of text elements to guide reading order. |
+| Photomontage | Composite imagery created by combining photographic fragments. |
+| Rationalism | Design grounded in logic, order, and measurable structure. |
+| Typographic Deconstruction | Deliberate disruption of conventional typographic rules. |
+| Vernacular Appropriation | Incorporation of non-professional or street visual language. |
+| Textural Distressing | Intentional visual degradation simulating wear or damage. |
+| Anti-Grid | Rejection of systematic alignment structures. |
+| Legibility Threshold | Minimum clarity required for text to remain readable. |
+| Material Honesty | Expression of true material properties without concealment. |
+| Visual Neutrality | Suppression of stylistic voice to foreground content. |
+| Postmodernism | Late 20th-century movement rejecting modernist universality through irony, plurality, and historical reference. |
 
 *Aim for 15–25 terms total. Build this list during your Exploration phase.*
 
