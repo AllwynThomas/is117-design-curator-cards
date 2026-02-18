@@ -7,21 +7,21 @@
 
 ## Prompt 1
 
-- **Phase:** Exploration / Production / Critique *(pick one)*
-- **Prompt name:** *(e.g., "Concept Map", "Draft Labels", "Expert Critique")*
+- **Phase:** Exploration
+- **Prompt name:** Concept Map
 - **What I sent:**
 
 ```
-[Paste the prompt you used here]
+Create a concept map showing how these three design movements relate to each other: 1. Bauhaus (1919–1933) 2. International Typographic Style / Swiss Style (1950s–1970s) 3. Grunge Typography Show: key figures, core principles, what each movement inherited from or rejected about the previous one. Use plain text with indentation — no images.
 ```
 
 - **What I got back (summary):**
 
-*[1–3 sentences: what was useful, what was wrong, what you kept]*
+I got a tree like structure of the concept map for the 3 movements but it was a little lengthy. 
 
 - **What I did with it:**
 
-*[Did you pin it? Discard it? Edit it? Promote it to AGENTS.md?]*
+I asked: can you make the concept map more streamlined with 5-6 lines per style? It then returned a better version that can be used.
 
 ---
 
